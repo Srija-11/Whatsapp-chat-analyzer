@@ -3,7 +3,7 @@ A Streamlit-based WhatsApp Chat Analyzer 📊
 
 An interactive web app built with [Streamlit](https://streamlit.io) to analyze your WhatsApp export files. Upload your chat text file and explore interesting statistics like message counts, user activity, word clouds, emojis usage, and more!
 
-Live demo → (https://wp-chat-analyzer-1.streamlit.app/)
+Live demo → https://wp-chat-analyzer-1.streamlit.app
 ---
 
 ## 🚀 Features
